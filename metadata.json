@@ -1,0 +1,6 @@
+{
+  "name": "English 5000",
+  "description": "Learn 5000+ English words with Arabic translations, pronunciation, quizzes, and vocabulary cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
